@@ -5,7 +5,7 @@ import socket
 s = socket.socket()
 
 # Define the port on which you want to connect
-port = 7001
+port = 7000
 
 
 # connect to the server on local computer
